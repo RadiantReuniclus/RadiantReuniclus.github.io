@@ -1,3 +1,3 @@
 Do Not Feed the Hallucinations
 
-Welcome to my modded projects and stuff
+Welcome to my modded scratch projects and stuff
