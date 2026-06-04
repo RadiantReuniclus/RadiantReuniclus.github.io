@@ -2,7 +2,5 @@
   width: 100px;
   height: auto;
   image-rendering: pixelated;
-}
-.title uppercase {
-  padding-bottom: 50px;
+  padding-top: 50px;
 }
