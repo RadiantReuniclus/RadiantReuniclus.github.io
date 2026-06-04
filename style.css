@@ -2,6 +2,7 @@
   width: 100px;
   height: auto;
   image-rendering: pixelated;
+  margin-top: 50px;
 }
 #article-title {
   margin-top: -50px;
