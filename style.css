@@ -2,5 +2,7 @@
   width: 100px;
   height: auto;
   image-rendering: pixelated;
-  padding-top: 50px;
+}
+.title uppercase {
+  margin-top: -50px;
 }
