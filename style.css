@@ -3,3 +3,6 @@
   height: auto;
   image-rendering: pixelated;
 }
+.title uppercase {
+  padding-left: 20px;
+}
