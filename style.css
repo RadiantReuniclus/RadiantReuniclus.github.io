@@ -1,5 +1,5 @@
 .profile-image {
-  width: 25vw;
-  height: 25vw;
+  width: 150px;
+  height: auto;
   image-rendering: pixelated;
 }
