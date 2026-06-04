@@ -4,6 +4,6 @@
   image-rendering: pixelated;
   margin-top: 50px;
 }
-#article-title {
+.title-uppercase {
   margin-top: -50px;
 }
