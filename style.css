@@ -3,6 +3,6 @@
   height: auto;
   image-rendering: pixelated;
 }
-.title uppercase {
+#article-title {
   margin-top: -50px;
 }
