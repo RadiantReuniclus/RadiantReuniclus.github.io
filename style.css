@@ -1,4 +1,4 @@
 .profile-image {
-  width: 15vw;  /* Can use px, %, rem, or vw */
-  height: auto;  /* Maintains aspect ratio automatically */
+  width: 15vw;
+  height: auto;
 }
