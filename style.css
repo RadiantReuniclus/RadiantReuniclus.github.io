@@ -10,20 +10,28 @@
 .link {
   margin-top: 50px;
 }
-.body-game {
-  margin: 0;
-  padding: 0;
-  background-color: #000;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  overflow: hidden;
+html, body.body-game {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #000;
+    justify-content: center;
+    align-items: center;
 }
-.iframe {
-  border: none;
-  aspect-ratio: 4 / 3; 
-  width: min(100vw, calc(100vh * 4 / 3));
-  height: min(100vh, calc(100vw * 3 / 4));
+.iframe-container {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    width: min(100vw, calc(100vh * 4 / 3));
+    height: min(100vh, calc(100vw * 3 / 4));
+}
+.iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
 }
