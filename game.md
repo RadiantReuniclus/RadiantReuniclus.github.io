@@ -1,1 +1,1 @@
-<iframe src="Simple Gear Creation.html" width="75vw" height="100vw" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
+<iframe src="Simple Gear Creation.html" width="480" height="408" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
