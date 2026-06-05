@@ -3,10 +3,8 @@
   height: auto;
   image-rendering: pixelated;
 }
-homepage-body {
-  background-color:white;
-}
 .title-uppercase {
+  color:white;
   margin-left: 100px;
   margin-top: -100px;
 }
