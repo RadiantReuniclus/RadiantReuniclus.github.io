@@ -1,3 +1,7 @@
+body {
+  display: black;
+}
+
 .profile-image {
   width: 100px;
   height: auto;
