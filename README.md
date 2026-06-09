@@ -4,13 +4,13 @@ https://radiantreuniclus.github.io/
 
 Controls:
 
-wasd: movement
-enter: long jump
-double press enter: small backwards hop
-backspace: straight up jump
-double press backspace: backflip
-shift: moonwalk
-`: terminal
+wasd: movement  
+enter: long jump  
+double press enter: small backwards hop  
+backspace: straight up jump  
+double press backspace: backflip  
+shift: moonwalk  
+`: terminal  
 
 Command list for terminal:
 
