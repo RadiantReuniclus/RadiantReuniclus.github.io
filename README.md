@@ -10,6 +10,7 @@ double press enter: small backwards hop
 backspace: straight up jump  
 double press backspace: backflip  
 shift: moonwalk  
++-: zoom in and out  
 `: terminal  
 
 Command list for terminal:
