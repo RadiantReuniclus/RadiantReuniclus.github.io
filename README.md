@@ -18,6 +18,8 @@ Command list for terminal:
 tp x y
 show all (shows important varibles)  
 hide all (hides them)  
-reset (simulates green flag)
+reset (simulates green flag)  
+set varible value  
+change varible value  
 
 Do Not Feed the Hallucinations
